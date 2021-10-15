@@ -3,7 +3,7 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-ether.jpg"
   bg_image_webp : "images/backgrounds/bg-ether.webp"
-  title : "Great Design & Incredible Features"
+  title : "Growth your Crypto Portfolio with top trusted assets"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
   button:
     enable : true
