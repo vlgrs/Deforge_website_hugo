@@ -35,7 +35,7 @@ git clone git@github.com:themefisher/meghna-hugo.git
 
 Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
 
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
+After that you need to go to the `meghna-hugo/DeForge` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
 
 open the command prompt again and run `cd ../` command for go back to the root folder.
 
