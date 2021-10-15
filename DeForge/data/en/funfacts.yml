@@ -1,6 +1,6 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/bg-ether.jpg"
   bg_image_webp : "images/backgrounds/bg-ether.webp"
   counter_item:
