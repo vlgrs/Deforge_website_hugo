@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "DeForge"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -128,8 +128,8 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Digital Asset & Financial Consultancy"
+author = "DeForge"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -186,7 +186,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "DeFroge - Blockchain Advisor."
 
 ################################ France Language ########################
 [Languages.fr]
@@ -195,4 +195,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "DeFroge - Blockchain Advisor."
