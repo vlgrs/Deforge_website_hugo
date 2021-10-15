@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-harddrives # themify icon pack : https://themify.me/themify-icons
     title : Technology Focused
     content : We mean for the tech overall, and we believe that each Blockchain oriented project must be studied carefully.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-pie-chart # themify icon pack : https://themify.me/themify-icons
     title : Professional Analysis
     content : With our due dilligeanced approche, we are able to synthetise and gain advantage on Blockhain projects. 
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-layout-sidebar-none # themify icon pack : https://themify.me/themify-icons
     title : Transparant & Simple
     content : Blockchain is natively transparant, and we ensure that everything ends up simple for you.
