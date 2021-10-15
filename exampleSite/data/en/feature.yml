@@ -8,20 +8,20 @@ feature:
   feature_item : 
       # feature item loop
     - title : DeFi products Consulting
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
     - title : In-Depth Research Report
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+    - title : NFT - Corporate & Retail Consultation/Implementation
+      icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+    - title : NFT - Appraisal & flipping
+      icon : ti-reload # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
