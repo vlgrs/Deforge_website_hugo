@@ -1,4 +1,4 @@
-<h1 align=center>Meghna Hugo Theme | <a target="_blank" href="https://demo.gethugothemes.com/meghna" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fmeghna%2F">Page Speed (80%)</a></h1>
+<h1 align=center>DeFroge Hugo Website</h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.84.0" alt="Contributors">
@@ -16,13 +16,6 @@
   <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
     <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
       alt="follow on Twitter"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37659754/54068559-44d79a80-4278-11e9-9601-f58d6879989c.gif"
-    alt="screenshot" width="100%">
 </p>
 
 ---
@@ -71,33 +64,6 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 
 Follow the steps.
 
-## Prefer a video? (Hugo + Netlify + Forestry)
-Build your website with **Meghna Hugo** theme by following these easy steps (No Coding Required!)
-[Video Tutorial](https://youtu.be/ResipmZmpDU).
-
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing
-issues](https://github.com/themefisher/meghna-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/meghna-hugo/issues).
-
-## Meghna Hugo theme Powered Websites
-- https://thetechbattalion.com/
-- https://adaptechgroup.com/
-- https://adenuz.com/
-- https://junior-aei.com/
-- https://akademiainformatyki.edu.pl/
-- https://naval-engineering.com/
-- https://www.istrosec.com/
-- https://www.puylevequepatrimoine.com/
-- https://www.beltlabs.com/
-- https://cloud-fundis.co.za
-- https://www.cocoon-arolla.com
-- https://www.plurisante202.fr
-
-View all the websites powered by Meghna Hugo theme [here](https://github.com/themefisher/meghna-hugo/wiki/Popular-sites-powered-by-Meghna-Hugo). Want to submit your own website powered by Meghna Hugo theme? You can submit it [here](https://github.com/themefisher/meghna-hugo/discussions/174).
-
 <!-- licence -->
 ## License
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
@@ -120,13 +86,3 @@ share those images.
 - [Google Fonts](http://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/meghna-hugo/graphs/contributors)
 
-
-## Hire Us
-We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://cutt.ly/ght-service)
-
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Reader](https://demo.gethugothemes.com/thumbnails/reader.webp)](https://gethugothemes.com/products/reader/) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft-hugo/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Reader** | **Bizcraft** |
