@@ -181,7 +181,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "DeForge - Blockchain Advisor."
+copyright = "DeForge – Decentralized Forge for your Digital Assets - 2021"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -190,4 +190,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-copyright = "DeForge - Blockchain Advisor."
+copyright = "DeForge – Decentralized Forge for your Digital Assets - 2021"

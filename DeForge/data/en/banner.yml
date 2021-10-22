@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Your Blockchain & Cryptocurrency Advisor"
-  content : "DeForge supports you trough your Blockchain & DeFi journey, allowing you to take advantages in the next financial revolution."
+  title : "Cryptocurrencies are driving the biggest wealth transfer in the history of the web & financial markets"
+  content : "DeForge will assist you through your Blockchain & Crypto journey. We help you manage your Digital Assets, allowing you to participate in the next financial revolution."
   button:
     enable : true
-    label : "Explore Us"
+    label : "About Us"
     link : "#services"

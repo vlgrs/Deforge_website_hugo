@@ -2,8 +2,9 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle : INTERESTED IN OUR SERVICES OR PARTNERING WITH US?
+  content : If you’re interested in investing in digital assets in any capacity, you can fill out the form and we’ll get back to you as fast as we possibly can. You can also connect with us on our many social platforms. Additionally, it would be give us great pleasure if you’re working on a crypto-related project that we can help you with.
+
 
   # Contact details
   contact_list:
@@ -14,7 +15,7 @@ contact:
       info : "Phone: +971-55-0000000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: contact@deforge.fi"
+      info : "Email: contact@deforge.finace"
 
 
   # Contact form

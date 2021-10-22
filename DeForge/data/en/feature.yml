@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-report.jpg
   image_webp : images/about/about-business-report.webp
-  title : We help you to manage your Digital Assets and provide Financial Consultancy.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : DeForge helps you in building and managing your digital assets’ portfolio.
+  content : "Whether you are a crypto enthusiast or new to the space, we help you understand the industry and invest in innovation as an asset class. We do everything in our power to maximize your success."
   feature_item : 
       # feature item loop
-    - title : DeFi products Consulting
+    - title : Multi-Disciplinary Approach
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our team comes from diverse backgrounds, giving us a competitive edge in leveraging the crypto space that is evolving at lightning speed.
       
       # feature item loop
-    - title : In-Depth Research Report
+    - title : Holistic Perspective
       icon : ti-agenda # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We are intimately familiar with the crypto technology landscape and market structure and have been hands-on investors in its many layers.
 
       # feature item loop
-    - title : NFT - Corporate & Retail Consultation/Implementation
+    - title : Methodological Process
       icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We tackle each opportunity through a methodological process, by exploring its fundamental & technical conditions, all the while considering micro and macro market sentiments.
       
       # feature item loop
-    - title : NFT - Appraisal & flipping
+    - title : Harnessing the power of the decentralized web (Web 3.0)
       icon : ti-reload # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : As the biggest disruptive asset class in history, crypto & blockchain are gaining mainstream and front-running gold, banks, technology and computing.

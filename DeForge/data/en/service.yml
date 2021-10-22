@@ -4,31 +4,50 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Consulting
+    - name : Multi-Asset Profolio Management
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Investing in a wide variety of coins/tokens via centralized & decentralized exchanges, according to risk appetite and investment timeframe.
       
     # service item loop
-    - name : Analysis
+    - name : CeFi & DeFi Products
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Access to centralized & decentralized finance, through: positional trading, staking, yield farming, liquidity pools, lending/borrowing, governance, etc."
       
     # service item loop
-    - name : Reporting
+    - name : GameFi
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Investing in game economies by playing, mining, flipping assets, or even owning teams to play in your stead and generate passive income for you.
       
     # service item loop
-    - name : CeFi
+    - name : Initial Offerings
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Giving you exposure to seed rounds or a chance to get whitelisted for: Initial Coin Offerings, Initial DEX Offerings, Initial Exchange Offerings & Initial Game Offerings."
+
       
     # service item loop
-    - name : DeFi
+    - name : NFT - Appraisal & Flipping
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Investing in NFTs short or long term. Helping artists digitize their art whether they’re graphic designers or musicians.
+
       
     # service item loop
-    - name : NFT
+    - name : NFT – Retail & SME Consulting
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Listing in developing and implementing solutions for: elections, supply chain, healthcare, records of ownership, content distribution, loyalty programs, social media, etc. (coming soon – not yet available)"
+      
+    # service item loop
+    - name : Top-Level Research
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : We research tokens/coins by studying the team, tokenomics, community, price action analysis, investors/backers, products use-case, roadmap, whitepaper, etc.
+
+    # service item loop
+    - name : Educational & Training Programs
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Investing in NFTs short or long term. Helping artists digitize their art whether they’re graphic designers or musicians.
+
+    # service item loop
+    - name : Alternative Investments
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Node Validation - Mining - Crypto ETPs - Mining Companies - Tokenized Stocks & Commodities
+
+
